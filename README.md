@@ -2,7 +2,7 @@
 It is a website for a real estate agency where the user can list buy search for a property. 
 
 ## Live server
-https://abdulkaderabd.github.io/real.estate/#
+https://abdulkaderabd.github.io/Real-Estate/
 
 ## Screenshots
 #### Listing 
